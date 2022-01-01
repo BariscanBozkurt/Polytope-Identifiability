@@ -26,11 +26,16 @@ STEP2 : Follow the steps from https://gist.github.com/kauffmanes/5e74916617f9993
 STEP3 : Follow the steps from https://doc.sagemath.org/html/en/installation/conda.html to create
 	an Anaconda environment with SageMath installed. 
 
-STEP4: Activate environment using one of the following command depending on your environment
+STEP4: Activate environment using one of the following commands depending on your environment
 	
 	"source activate <your_env_name>"
 	"conda activate <your_env_name>"
 
 STEP 5: Moreover, you may need to install the Python libraries submitted in requirements.txt
 
+# Identifiability Decision
+
+![Sample From Test Set](./imgs/example_poly_graph.jpg)
+![Sample From Test Set](./imgs/algo_pseudocode.jpg)
+![Sample From Test Set](./imgs/algo_execution_time.jpg)
 
