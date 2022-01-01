@@ -13,9 +13,10 @@ Official Codes for "On Identifiable Polytope Characterization for Polytopic Matr
 -> Platform Info : "OS: Linux (x86_64-pc-linux-gnu) CPU: Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz"
 
 # SageMath Environment Usage
+
 ######################################################################
 
-ALTERNATIVE 1 - USING WINDOWS SUBSYSTEM FOR LINUX (wsl) IN WINDOWS 10/11
+USING WINDOWS SUBSYSTEM FOR LINUX (wsl) IN WINDOWS 10/11
 
 STEP1 : Download Ubuntu 18.04 LTS from Microsoft Store. We will call this app as wsl from now on.
 
@@ -31,19 +32,5 @@ STEP4: Activate environment using one of the following command depending on your
 	"conda activate <your_env_name>"
 
 STEP 5: Moreover, you may need to install the Python libraries submitted in requirements.txt
-
-######################################################################
-
-ALTERNATIVE 2 - USE CoCalc (Collaborative Calculation and Data Science)
-
-STEP1 : Go to https://cocalc.com/projects?session=default
-
-STPE2 : Create a new project with an extension of a Jupyter Notebook
-
-STEP3 : Select the kernel as SageMath 9.2
-
-STEP4 : They will give a Jupyter Notebook with SageMath kernel.
-	You can copy paste the required library and functions from the submitted codes. Then, you can play with those codes in a web-basd cloud computing
-	service provided.
 
 
