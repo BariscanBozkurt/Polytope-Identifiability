@@ -4,6 +4,8 @@ Official Codes for "On Identifiable Polytope Characterization for Polytopic Matr
 
 # Identifiable Polytope Characterization
 
+Paper Link : https://arxiv.org/abs/2204.11534
+
 # Implementation Environment Details
 
 -> Python Version: Python 3.7.11 (default, Jul 27 2021, 14:32:16)
